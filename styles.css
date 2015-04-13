@@ -1,0 +1,13 @@
+body {
+  background: #d53ca3;
+  font: 100% Source Sans Pro, sans-serif;
+  color: #fff; }
+  body h1, body h3, body h4, body ul {
+    font-weight: 300; }
+  body h3 {
+    font-weight: 400; }
+  body a {
+    color: #5c1182;
+    font-weight: bold; }
+
+/*# sourceMappingURL=styles.css.map */
